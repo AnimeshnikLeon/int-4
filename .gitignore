@@ -1,1 +1,15 @@
+## virtual environments
 /.venv/
+
+## py cache files
+/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+## VSCode workspace
+*.code-workspace
+
+### logs and experiment
+logs/
+experiments/
+notebooks/experiments/
